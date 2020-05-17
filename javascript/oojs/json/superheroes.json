@@ -36,6 +36,15 @@
         "Teleportation",
         "Interdimensional travel"
       ]
+    },
+    {
+      "name" : "OmniMan",
+      "age" : 50,
+      "secretIdentity" : "Cristian Estrada Peña",
+      "powers" : [
+        "Inmortality",
+        "HeatInmunity"
+      ]
     }
   ]
 }
